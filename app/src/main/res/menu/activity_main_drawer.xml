@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/utilisateur"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_recherche"
+            android:icon="@drawable/search"
+            android:title="recherche" />
+        <item
+            android:id="@+id/nav_ajouterannonce"
+            android:icon="@drawable/ajouterannonce"
+            android:title="ajouter annonce" />
+<!--        <item-->
+<!--            android:id="@+id/nav_notification"-->
+<!--            android:icon="@drawable/notification"-->
+<!--            android:title="notification" />-->
+<!--        <item-->
+<!--        android:id="@+id/classement"-->
+<!--        android:icon="@drawable/notification1"-->
+<!--        android:title="inbox" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_aproposD"-->
+<!--            android:icon="@drawable/facebook"-->
+<!--            android:title="apropos de nous" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_inbox"-->
+<!--            android:icon="@drawable/inbox"-->
+<!--            android:title="inbox" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_aproposDeNous"-->
+<!--            android:icon="@drawable/aproposdenous"-->
+<!--            android:title="apropos de nous" />-->
+    </group>
+</menu>

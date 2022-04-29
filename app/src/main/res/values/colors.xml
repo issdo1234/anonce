@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pri">#1A2139</color>
+    <color name="pri_dark">#04071B</color>
+    <color name="pri_txt">#0B0519</color>
+    <color name="sec_txt">#404746</color>
+    <color name="white">#F9FAFA</color>
+    <color name="black">#FF000000</color>
+    <color name="input_back">#D0D3E3</color>
+    <color name="icon_back">#20ffffff</color>
+    <color name="erreur">#B00020</color>
+    <color name="received_message_background">#090d19</color>
+</resources>
